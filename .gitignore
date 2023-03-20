@@ -1,0 +1,11 @@
+**/.vs/
+**/Debug/
+**/x64/
+**/out/
+
+*.lnk
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+**/CMakePresets.json
+*.sln
